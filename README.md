@@ -10,9 +10,13 @@
   # Description  
   This is an application that allows you to create and store notes on your pc! 
   You will be introduced to the welcome page as shown below 
-  <img width="958" alt="image" src="https://user-images.githubusercontent.com/62361626/150692576-d4875332-5987-42f8-a124-bd0d388bef0d.png">
+  <p align="center">
+  <img width="600" alt="image" src="https://user-images.githubusercontent.com/62361626/150692576-d4875332-5987-42f8-a124-bd0d388bef0d.png">
+  </p>
   And will be taken to our new note taking portion! We will store all of your notes here on this page. Feel free to add new ToDos, goals, or anything! 
-  <img width="944" alt="image" src="https://user-images.githubusercontent.com/62361626/150692641-5ff8c543-feb8-47d7-b82f-e104bc442952.png">\
+  <p align="center">
+  <img width="600" alt="image" src="https://user-images.githubusercontent.com/62361626/150692641-5ff8c543-feb8-47d7-b82f-e104bc442952.png">
+  </p>
   
   Check out the application deployed to Heroku at: https://nt-9000.herokuapp.com/
   # Installation  
