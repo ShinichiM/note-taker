@@ -4,6 +4,7 @@ let saveNoteBtn;
 let newNoteBtn;
 let noteList;
 
+// window.location.pathname returns the current webpage path --> So if you are at https://www.google.com/javascript/api, it returns /javascript/api
 if (window.location.pathname === '/notes') {
   noteTitle = document.querySelector('.note-title');
   noteText = document.querySelector('.note-textarea');
